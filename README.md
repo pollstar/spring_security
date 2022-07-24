@@ -6,3 +6,9 @@ MvcConfig.java - создает контроллеры представлени�
 Шаблоны 
 home.html
 hello.html
+
+Branch - configure_security
+pom.xml - добавленна зависимость Spring Security 
+WebSecurityConfig.java - Настройка безопасности
+
+
